@@ -1,6 +1,6 @@
 # Cyber Resiliency Solutions with IBM QRadar
 
-This repositoy contains Python code published for all the cyber resiliency solutions for various IBM Storage Products and third party vendor products
+This repository contains Solution blueprint, video links and Python code published for all the cyber resiliency solutions for various IBM Storage Products and third party vendor products
 
 ## Following solutions are currently published. Keep watching this space for new additions.
 
