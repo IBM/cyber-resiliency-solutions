@@ -22,4 +22,4 @@ The resources published for this solution are provided below.
 |-------|-----------|-------|
 |GitHub Repository| [ibm-qradar-brocade](https://github.com/IBM/ibm-qradar-brocade) |Use the link to visit the GitHub repository containing Python code written to bridge the gap between IBM QRadar and Brocade SAN FOS.|
 |Document|[Blueprint](http://www.redbooks.ibm.com/abstracts/redp5672.html?Open)|Solution blueprint|
-|Video|[Video demo](https://mediacenter.ibm.com/media/Overview+and+Deep+Demo+of+how+to+quickly+setup+Cyber+Resilience+using+IBM%27s+QRadar+and+Brocade+SAN+components/1_3gnrcu5r)|Vidoe demo of the solution|
+|Video|[Video demo](https://mediacenter.ibm.com/media/Overview+and+Deep+Demo+of+how+to+quickly+setup+Cyber+Resilience+using+IBM%27s+QRadar+and+Brocade+SAN+components/1_3gnrcu5r)|Video demo of the solution|
