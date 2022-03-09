@@ -5,10 +5,24 @@ This repository contains links to solution blueprints, video demos and Python co
 ## Following solutions are currently published. Keep watching this space for new additions.
 
 ##
-
+- ### IBM DS8000 Safeguarded Copy
 - ### Brocade SAN FOS
 
 ##
+
+# IBM DS8000 Safeguarded Copy
+
+The focus of this solution is to highlight early threat detection by IBM® QRadar® and to proactively start a cyber resilience workflow in response to a cyberattack or malicious user actions.
+
+The workflow uses IBM Copy Services Manager (CSM) as orchestration software to start IBM DS8000® Safeguarded Copy functions. The Safeguarded Copy creates an immutable copy of the data in an air-gapped form on the same DS8000 system for isolation and eventual quick recovery.
+
+The resources published for this solution are provided below.
+
+| Type  | Reference |Comment|
+|-------|-----------|-------|
+|GitHub Repository| [ibm-qradar-ds8k-sgc-csm](https://github.com/IBM/cyber-resiliency-solutions/ibm-qradar-ds8k-sgc-csm) |Use the link to visit the GitHub repository containing Python code written to invoke Copy Services Manager pre-configured scheduled task to invoke SafeguardedCopy on DS8000 |
+|Document|[Blueprint](https://www.redbooks.ibm.com/abstracts/redp5677.html?Open)|Solution blueprint|
+
 
 # Brocade SAN FOS 
 
