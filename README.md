@@ -20,7 +20,7 @@ The resources published for this solution are provided below.
 
 | Type  | Reference |Comment|
 |-------|-----------|-------|
-|GitHub Repository| [ibm-qradar-ds8k-sgc-csm](https://github.com/IBM/cyber-resiliency-solutions/ibm-qradar-ds8k-sgc-csm) |Use the link to visit the GitHub repository containing Python code written to invoke Copy Services Manager pre-configured scheduled task to invoke SafeguardedCopy on DS8000 |
+|GitHub Repository| [ibm-qradar-ds8k-sgc-csm](https://github.com/IBM/ibm-qradar-ds8k-sgc-csm) |Use the link to visit the GitHub repository containing Python code written to invoke Copy Services Manager pre-configured scheduled task to invoke SafeguardedCopy on DS8000 |
 |Document|[Blueprint](https://www.redbooks.ibm.com/abstracts/redp5677.html?Open)|Solution blueprint|
 
 
