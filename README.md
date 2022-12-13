@@ -5,10 +5,24 @@ This repository contains links to solution blueprints, video demos and Python co
 ## Following solutions are currently published. Keep watching this space for new additions.
 
 ##
+- ### IBM Spectrum CDM + FlashSystem Safeguarded copy for SQL database
 - ### IBM DS8000 Safeguarded Copy
 - ### Brocade SAN FOS
 
 ##
+
+# IBM Spectrum CDM + FlashSystem Safeguarded copy for SQL database
+The focus of this solution is to highlight early threat detection by IBM® QRadar® and to proactively start a cyber resilience workflow in response to a malicious uer actions.
+
+The workflow uses IBM Spectrum Copy Data Management (SCDM) as orchestration software and initiates restore from last Safeguarded Copy backup to a clean environment.
+
+The resources published for this solution are as following.
+
+| Type  | Reference |Comment|
+|-------|-----------|-------|
+|GitHub Repository|[ibm-qradar-cdm-fs-safeguarded-copy](https://github.com/IBM/ibm-qradar-cdm-fs-safeguarded-copy)|Use the link to visit the GitHub repository containing Python code|
+|Document|[Blueprint](https://www.redbooks.ibm.com/abstracts/redp5691.html)|Solution blueprint|
+
 
 # IBM DS8000 Safeguarded Copy
 
